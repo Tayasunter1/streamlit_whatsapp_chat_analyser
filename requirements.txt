@@ -8,4 +8,4 @@ emoji
 Counter
 WordCloud
 nltk
-matplotlib.pyplot
+matplotlib
