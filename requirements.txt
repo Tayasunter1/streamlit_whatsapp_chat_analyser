@@ -1,4 +1,11 @@
+re
 streamlit
 numpy
 seaborn
 pandas
+URLExtract
+emoji
+Counter
+WordCloud
+nltk
+matplotlib.pyplot
